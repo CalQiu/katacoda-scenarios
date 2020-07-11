@@ -1,2 +1,4 @@
 This is a demo file.
-This is second line of the fiLE
+This is second line of the file.
+This is the third line. 
+
